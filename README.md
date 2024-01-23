@@ -18,4 +18,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=jarvisonline&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![Snake animation](https://github.com/{{your_username}}/{{your_username}}/blob/output/github-contribution-grid-snake.svg) https://blog.arnabghosh.me/add-github-dark-snake-animation-readme
+![Snake animation](https://github.com/jarvisonline/jarvisonline/blob/output/github-contribution-grid-snake.svg) https://blog.arnabghosh.me/add-github-dark-snake-animation-readme
