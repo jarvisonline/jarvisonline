@@ -6,6 +6,11 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jarvisonline&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jarvisonline&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=jarvisonline&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
